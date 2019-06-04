@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mm.miladsapp.MainActivity">
+
+
+    <item
+        android:id="@+id/Homepage"
+        android:orderInCategory="100"
+        android:title="Hem"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/Page2"
+        android:orderInCategory="100"
+        android:title="Välj en orm"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/Page1"
+        android:orderInCategory="100"
+        android:title="Kontakta oss"
+        app:showAsAction="never" />
+
+
+
+
+</menu>

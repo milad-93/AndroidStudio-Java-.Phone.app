@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">miladsApp</string>
+    <string name="action_settings">Inställningar</string>
+    <string name="title_activity_page2">Om Heros Of The Snakes</string>
+    <string name="title_activity_page3">Spela</string>
+    <string name="Title">Hjältar Av Ormar</string>
+</resources>
